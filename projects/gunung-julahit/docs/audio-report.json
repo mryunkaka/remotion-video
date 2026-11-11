@@ -1,0 +1,39 @@
+{
+  "edits": {
+    "VO1": {
+      "original_sec": 131.49,
+      "last_speech_end_sec": 67.59,
+      "trimmed_tail_sec": 63.45,
+      "shortened_gaps": [
+        {
+          "at_sec": 14.26,
+          "original_gap": 7.97,
+          "new_gap": 3.0
+        },
+        {
+          "at_sec": 52.23,
+          "original_gap": 7.28,
+          "new_gap": 3.0
+        }
+      ],
+      "edited_sec": 58.79
+    },
+    "VO2": {
+      "original_sec": 128.01,
+      "last_speech_end_sec": 127.76,
+      "trimmed_tail_sec": 0.0,
+      "shortened_gaps": [],
+      "edited_sec": 128.01
+    }
+  },
+  "final_mix": {
+    "integrated_lufs": -16.0,
+    "true_peak_dbtp": -2.3,
+    "loudness_range_lu": 7.6
+  },
+  "sample_rate": 48000,
+  "channels": 2,
+  "duration_sec": 190.3,
+  "alignment": "segment-level (bukan ASR), perkiraan meleset +-1 dtk",
+  "ducking": "musik -12 dB (ke ~20 dB di bawah narasi), ambience -6 dB, sfx -3 dB saat narasi aktif"
+}

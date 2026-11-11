@@ -1,0 +1,12 @@
+{
+  "name": "pulau-laut-forest-documentary",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "powershell -ExecutionPolicy Bypass -File app/scripts/render-production.ps1",
+    "mix": "powershell -ExecutionPolicy Bypass -File app/scripts/mix-audio.ps1",
+    "captions": "node app/scripts/build-captions.mjs"
+  }
+}

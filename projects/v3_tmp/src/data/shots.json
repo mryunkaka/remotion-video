@@ -1,0 +1,1294 @@
+{
+ "schema": "v3",
+ "labelMode": "persistent",
+ "labelBlocks": [
+  {
+   "from": 4.98,
+   "to": 33.0,
+   "text": "ILUSTRASI LEGENDA"
+  },
+  {
+   "from": 33.0,
+   "to": 47.26,
+   "text": "REKONSTRUKSI VISUAL"
+  },
+  {
+   "from": 47.26,
+   "to": 58.9,
+   "text": "SEBUAH KESAKSIAN YANG DIBERITAKAN"
+  },
+  {
+   "from": 58.9,
+   "to": 131.0,
+   "text": "DRAMATISASI BERDASARKAN KESAKSIAN YANG DIBERITAKAN"
+  },
+  {
+   "from": 131.0,
+   "to": 137.7,
+   "text": "ILUSTRASI HOROR"
+  },
+  {
+   "from": 137.7,
+   "to": 157.0,
+   "text": "DRAMATISASI BERDASARKAN KESAKSIAN YANG DIBERITAKAN"
+  }
+ ],
+ "refBlocks": [
+  {
+   "from": 4.98,
+   "to": 58.9,
+   "text": "Sumber: Correcto, 27 Juni 2020 · Cerita lisan, belum diverifikasi"
+  },
+  {
+   "from": 58.9,
+   "to": 171.3,
+   "text": "Sumber: Correcto, 27 Juni 2020 · Dramatisasi, bukan rekaman asli"
+  }
+ ],
+ "cards": [
+  {
+   "t": 157.47,
+   "to": 163.0,
+   "top": 620,
+   "lines": [
+    {
+     "text": "BELUM MEMBUKTIKAN",
+     "size": 54,
+     "head": true,
+     "color": "#f0d9a0"
+    },
+    {
+     "text": "PERISTIWA GAIB",
+     "size": 54,
+     "head": true,
+     "color": "#f0d9a0",
+     "delay": 0.5
+    }
+   ]
+  },
+  {
+   "t": 164.02,
+   "to": 171.0,
+   "top": 520,
+   "lines": [
+    {
+     "text": "KESAKSIAN YANG DIBERITAKAN",
+     "size": 54,
+     "head": true
+    }
+   ]
+  },
+  {
+   "t": 168.7,
+   "to": 171.2,
+   "top": 700,
+   "lines": [
+    {
+     "text": "—",
+     "size": 44,
+     "color": "#c9a56a"
+    },
+    {
+     "text": "BELUM MEMBUKTIKAN",
+     "size": 54,
+     "head": true,
+     "color": "#f0d9a0",
+     "delay": 0.3
+    },
+    {
+     "text": "PERISTIWA GAIB",
+     "size": 54,
+     "head": true,
+     "color": "#f0d9a0",
+     "delay": 0.6
+    }
+   ]
+  },
+  {
+   "t": 171.8,
+   "to": 175.9,
+   "top": 560,
+   "lines": [
+    {
+     "text": "MENURUT KALIAN?",
+     "size": 76,
+     "head": true
+    },
+    {
+     "text": "Apa yang sebenarnya terjadi malam itu?",
+     "size": 40,
+     "color": "#d8d2c0",
+     "delay": 0.6
+    }
+   ]
+  },
+  {
+   "t": 176.53,
+   "to": 189.2,
+   "top": 500,
+   "lines": [
+    {
+     "text": "FOLLOW",
+     "size": 50,
+     "pill": true
+    },
+    {
+     "text": "LIKE",
+     "size": 50,
+     "pill": true,
+     "delay": 0.35
+    },
+    {
+     "text": "KOMEN",
+     "size": 50,
+     "pill": true,
+     "delay": 0.7
+    },
+    {
+     "text": "REPOST",
+     "size": 50,
+     "pill": true,
+     "delay": 1.05
+    }
+   ]
+  },
+  {
+   "t": 178.52,
+   "to": 189.2,
+   "top": 1080,
+   "lines": [
+    {
+     "text": "Punya cerita? DM atau tulis di komentar",
+     "size": 38,
+     "color": "#d9d2bf"
+    }
+   ]
+  }
+ ],
+ "shots": [
+  {
+   "id": 1,
+   "start": 0,
+   "end": 4.98,
+   "kind": "hill",
+   "var": "rain-black",
+   "cam": {
+    "k": "push",
+    "a": 0.08
+   },
+   "tr": {
+    "k": "start",
+    "f": 0
+   },
+   "motion": [
+    "kamera push",
+    "hujan",
+    "kabut mengalir"
+   ],
+   "change": "hitam menjadi siluet bukit",
+   "cfg": {
+    "bright": [
+     0,
+     1
+    ],
+    "rain": [
+     0.5,
+     0.7
+    ],
+    "fog": [
+     0.3,
+     0.5
+    ],
+    "peakX": 540
+   },
+   "phase": [
+    0.22,
+    0.25
+   ],
+   "title": {
+    "text": "KOTABARU, KALIMANTAN SELATAN",
+    "size": "sm",
+    "from": 1.0,
+    "to": 4.4
+   }
+  },
+  {
+   "id": 2,
+   "start": 4.98,
+   "end": 11.4,
+   "kind": "hill",
+   "var": "dusk-night",
+   "cam": {
+    "k": "panR",
+    "a": 0.07
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 20
+   },
+   "motion": [
+    "kamera pan",
+    "awan mengalir (parallax)",
+    "bulan naik",
+    "bukit parallax"
+   ],
+   "change": "senja menjadi malam, bulan naik",
+   "cfg": {
+    "moon": true,
+    "moonY": [
+     520,
+     380
+    ],
+    "clouds": 0.6,
+    "fog": [
+     0.3,
+     0.5
+    ],
+    "peakX": 540
+   },
+   "phase": [
+    0.25,
+    0.9
+   ],
+   "title": {
+    "text": "GUNUNG JULAHIT",
+    "size": "lg",
+    "from": 5.0,
+    "to": 11.0
+   }
+  },
+  {
+   "id": 3,
+   "start": 11.4,
+   "end": 23.2,
+   "kind": "map",
+   "var": "evolve",
+   "cam": {
+    "k": "push",
+    "a": 0.09
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 20
+   },
+   "motion": [
+    "zoom halus",
+    "cincin kontur",
+    "pemindai radar",
+    "garis putus-putus tergambar"
+   ],
+   "change": "tiga nama muncul bertahap, garis menyala",
+   "cfg": {
+    "reveal": {
+     "td": 19.2,
+     "gj": 20.65,
+     "sj": 21.3,
+     "line": 21.4
+    }
+   },
+   "insert": {
+    "n": 1,
+    "kind": "cutaway",
+    "t": 17.902,
+    "dur": 1.0
+   }
+  },
+  {
+   "id": 4,
+   "start": 23.2,
+   "end": 33.0,
+   "kind": "bridge",
+   "var": "long-fog",
+   "cam": {
+    "k": "push",
+    "a": 0.08
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 20
+   },
+   "motion": [
+    "kabut mengalir",
+    "push lambat",
+    "awan",
+    "hujan tipis"
+   ],
+   "change": "kabut menebal",
+   "cfg": {
+    "fog": [
+     0.5,
+     0.9
+    ]
+   },
+   "insert": {
+    "n": 2,
+    "kind": "bridgeFig",
+    "t": 26.72,
+    "dur": 1.2
+   }
+  },
+  {
+   "id": 5,
+   "start": 33.0,
+   "end": 39.07,
+   "kind": "hill",
+   "var": "rain-rise",
+   "cam": {
+    "k": "pull",
+    "a": 0.07
+   },
+   "tr": {
+    "k": "dip",
+    "f": 18
+   },
+   "motion": [
+    "hujan menguat",
+    "awan mengalir",
+    "kamera pull",
+    "lampu kota jauh"
+   ],
+   "change": "hujan menguat, langit menggelap",
+   "cfg": {
+    "moon": true,
+    "moonX": 300,
+    "moonY": [
+     420,
+     380
+    ],
+    "clouds": 0.5,
+    "fog": [
+     0.4,
+     0.7
+    ],
+    "rain": [
+     0.1,
+     0.8
+    ],
+    "peakX": 620,
+    "town": true
+   },
+   "phase": [
+    0.9,
+    1.0
+   ]
+  },
+  {
+   "id": 6,
+   "start": 39.07,
+   "end": 47.26,
+   "kind": "lamp",
+   "var": "moths-dim",
+   "cam": {
+    "k": "push",
+    "a": 0.07
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 20
+   },
+   "motion": [
+    "ngengat",
+    "hujan di kerucut cahaya",
+    "kamera push",
+    "riak genangan"
+   ],
+   "change": "lampu meredup bertahap",
+   "cfg": {
+    "glow": [
+     1,
+     0.55
+    ]
+   },
+   "title": {
+    "text": "MALAM JUMAT",
+    "size": "md",
+    "from": 42.4,
+    "to": 45.3
+   },
+   "insert": {
+    "n": 3,
+    "kind": "lampFig",
+    "t": 43.565,
+    "dur": 1.2
+   }
+  },
+  {
+   "id": 7,
+   "start": 47.26,
+   "end": 54.24,
+   "kind": "road",
+   "var": "far-to-medium",
+   "cam": {
+    "k": "push",
+    "a": 0.09
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 20
+   },
+   "motion": [
+    "kamera push",
+    "sosok mendekat",
+    "rack focus foreground",
+    "hujan"
+   ],
+   "change": "sosok mendekat, foreground memudar",
+   "cfg": {
+    "mount": 760,
+    "lamp": {
+     "x": 360,
+     "d": 0.34,
+     "glow": 1
+    },
+    "rain": [
+     0.6,
+     0.85
+    ],
+    "fog": [
+     0.3,
+     0.45
+    ],
+    "puddle": true,
+    "rack": true,
+    "fig": {
+     "d": 0.2,
+     "d2": 0.46,
+     "x": 480,
+     "pose": "down"
+    },
+    "waveUntil": 0.45
+   },
+   "insert": {
+    "n": 4,
+    "kind": "hand",
+    "t": 49.98,
+    "dur": 1.2
+   }
+  },
+  {
+   "id": 8,
+   "start": 54.24,
+   "end": 58.9,
+   "kind": "ridge",
+   "var": "dark-mountain",
+   "cam": {
+    "k": "tiltUp",
+    "a": 0.07
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 20
+   },
+   "motion": [
+    "kamera tilt",
+    "kabut mengalir",
+    "bintang berkedip lambat",
+    "lampu kota"
+   ],
+   "change": "meredup ke gelap",
+   "cfg": {
+    "baseY": 1120,
+    "peakX": 640,
+    "peakH": 520,
+    "fog": [
+     0.5,
+     0.8
+    ],
+    "bright": [
+     1,
+     0.15
+    ],
+    "town": true
+   },
+   "phase": [
+    1,
+    1
+   ],
+   "title": {
+    "text": "DI ATAS GUNUNG JULAHIT?",
+    "size": "md",
+    "from": 54.4,
+    "to": 58.4
+   }
+  },
+  {
+   "id": 9,
+   "start": 58.9,
+   "end": 63.4,
+   "kind": "trail",
+   "var": "path-mist",
+   "cam": {
+    "k": "push",
+    "a": 0.08
+   },
+   "tr": {
+    "k": "dip",
+    "f": 18
+   },
+   "motion": [
+    "pohon bergulir (tracking)",
+    "daun bergoyang",
+    "kabut",
+    "hujan"
+   ],
+   "change": "cahaya di ujung jalan menguat",
+   "cfg": {
+    "speed": 0.45,
+    "fog": [
+     0.4,
+     0.7
+    ],
+    "rain": [
+     0.3,
+     0.6
+    ],
+    "peakX": 800,
+    "glow": [
+     0.4,
+     0.8
+    ]
+   }
+  },
+  {
+   "id": 10,
+   "start": 63.4,
+   "end": 68.9,
+   "kind": "road",
+   "var": "pov-drizzle",
+   "cam": {
+    "k": "track",
+    "a": 0.07
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 20
+   },
+   "motion": [
+    "tracking",
+    "garis jalan bergulir",
+    "hujan",
+    "kabut"
+   ],
+   "change": "hujan menguat",
+   "cfg": {
+    "mount": 760,
+    "scroll": 0.8,
+    "rain": [
+     0.5,
+     0.9
+    ],
+    "fog": [
+     0.3,
+     0.5
+    ],
+    "puddle": true
+   }
+  },
+  {
+   "id": 11,
+   "start": 68.9,
+   "end": 74.3,
+   "kind": "side",
+   "var": "walker",
+   "cam": {
+    "k": "track",
+    "a": 0.06
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 20
+   },
+   "motion": [
+    "parallax 4 lapis",
+    "sosok berjalan",
+    "lampu melintas",
+    "hujan"
+   ],
+   "change": "kabut menebal",
+   "cfg": {
+    "rain": [
+     0.6,
+     0.9
+    ],
+    "fog": [
+     0.3,
+     0.55
+    ]
+   }
+  },
+  {
+   "id": 12,
+   "start": 74.3,
+   "end": 80.7,
+   "kind": "park",
+   "var": "fence",
+   "cam": {
+    "k": "panL",
+    "a": 0.08
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 20
+   },
+   "motion": [
+    "parallax pagar",
+    "awan mengalir",
+    "bangku & lampu",
+    "hujan"
+   ],
+   "change": "lampu meredup, kabut menebal",
+   "cfg": {
+    "glow": [
+     0.9,
+     0.5
+    ],
+    "fog": [
+     0.3,
+     0.6
+    ]
+   }
+  },
+  {
+   "id": 13,
+   "start": 80.7,
+   "end": 88.5,
+   "kind": "road",
+   "var": "far-wave",
+   "cam": {
+    "k": "push",
+    "a": 0.08
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 20
+   },
+   "motion": [
+    "kamera push",
+    "sosok melambai",
+    "hujan",
+    "kabut"
+   ],
+   "change": "sosok perlahan mendekat",
+   "cfg": {
+    "mount": 760,
+    "lamp": {
+     "x": 360,
+     "d": 0.2,
+     "glow": 1
+    },
+    "rain": 0.8,
+    "fog": [
+     0.3,
+     0.5
+    ],
+    "puddle": true,
+    "fig": {
+     "d": 0.26,
+     "d2": 0.34,
+     "x": 420,
+     "pose": "wave"
+    }
+   }
+  },
+  {
+   "id": 14,
+   "start": 88.5,
+   "end": 94.6,
+   "kind": "road",
+   "var": "medium-back",
+   "cam": {
+    "k": "pull",
+    "a": 0.06
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 20
+   },
+   "motion": [
+    "kamera pull",
+    "hujan",
+    "kabut",
+    "riak genangan"
+   ],
+   "change": "sosok melompat lebih dekat",
+   "cfg": {
+    "mount": 760,
+    "lamp": {
+     "x": 720,
+     "d": 0.34,
+     "glow": 1
+    },
+    "rain": 0.8,
+    "fog": [
+     0.35,
+     0.5
+    ],
+    "puddle": true,
+    "fig": {
+     "d": 0.3,
+     "x": 610,
+     "pose": "down",
+     "jumpD": 0.64
+    }
+   },
+   "insert": {
+    "n": 5,
+    "kind": "closer",
+    "t": 90.754,
+    "dur": 1.2
+   }
+  },
+  {
+   "id": 15,
+   "start": 94.6,
+   "end": 100.6,
+   "kind": "ots",
+   "var": "question",
+   "cam": {
+    "k": "push",
+    "a": 0.06
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 20
+   },
+   "motion": [
+    "kamera push",
+    "napas bahu (OTS)",
+    "hujan",
+    "kabut"
+   ],
+   "change": "kamera mendekat ke sosok",
+   "cfg": {
+    "mount": 760,
+    "lamp": {
+     "x": 360,
+     "d": 0.34,
+     "glow": 1
+    },
+    "ots": true,
+    "rain": 0.8,
+    "fog": [
+     0.35,
+     0.5
+    ],
+    "puddle": true,
+    "fig": {
+     "d": 0.45,
+     "d2": 0.58,
+     "x": 570,
+     "pose": "down"
+    }
+   }
+  },
+  {
+   "id": 16,
+   "start": 100.6,
+   "end": 105.25,
+   "kind": "point",
+   "var": "arm-right",
+   "cam": {
+    "k": "tiltUp",
+    "a": 0.07
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 20
+   },
+   "motion": [
+    "kamera tilt",
+    "lengan terangkat",
+    "kabut",
+    "hujan"
+   ],
+   "change": "lengan terangkat menunjuk",
+   "cfg": {
+    "peakX": 800
+   }
+  },
+  {
+   "id": 17,
+   "start": 105.25,
+   "end": 114.2,
+   "kind": "ridge",
+   "var": "slope-calm",
+   "cam": {
+    "k": "push",
+    "a": 0.08
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 20
+   },
+   "motion": [
+    "kamera push",
+    "kabut mengalir",
+    "bintang berkedip lambat",
+    "hujan tipis"
+   ],
+   "change": "kabut menebal di lereng",
+   "cfg": {
+    "baseY": 1100,
+    "peakX": 760,
+    "peakH": 500,
+    "fog": [
+     0.4,
+     0.7
+    ],
+    "moon": true,
+    "moonX": 260,
+    "moonY": [
+     430,
+     380
+    ],
+    "town": true,
+    "rain": [
+     0.2,
+     0.4
+    ]
+   },
+   "phase": [
+    1,
+    1
+   ],
+   "title": {
+    "text": "KE ARAH GUNUNG JULAHIT",
+    "size": "md",
+    "from": 105.4,
+    "to": 109.0
+   },
+   "insert": {
+    "n": 6,
+    "kind": "slope",
+    "t": 110.925,
+    "dur": 1.2
+   }
+  },
+  {
+   "id": 18,
+   "start": 114.2,
+   "end": 121.8,
+   "kind": "puddle",
+   "var": "ripple-shoes",
+   "cam": {
+    "k": "tiltDown",
+    "a": 0.07
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 20
+   },
+   "motion": [
+    "kamera tilt",
+    "riak konsentris",
+    "hujan",
+    "sepatu melangkah"
+   ],
+   "change": "sepatu melangkah masuk genangan",
+   "cfg": {}
+  },
+  {
+   "id": 19,
+   "start": 121.8,
+   "end": 131.0,
+   "kind": "road",
+   "var": "wide-hold",
+   "cam": {
+    "k": "pull",
+    "a": 0.06
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 20
+   },
+   "motion": [
+    "pull lambat",
+    "hujan",
+    "kabut",
+    "riak genangan"
+   ],
+   "change": "sosok menghilang",
+   "cfg": {
+    "mount": 760,
+    "lamp": {
+     "x": 360,
+     "d": 0.34,
+     "glow": 1
+    },
+    "rain": [
+     0.6,
+     0.4
+    ],
+    "fog": [
+     0.35,
+     0.6
+    ],
+    "puddle": true,
+    "fig": {
+     "d": 0.4,
+     "x": 500,
+     "pose": "down"
+    }
+   },
+   "title": {
+    "text": "LALU... MENGHILANG",
+    "size": "md",
+    "from": 126.65,
+    "to": 130.6
+   },
+   "insert": {
+    "n": 7,
+    "kind": "vanish",
+    "t": 126.38,
+    "dur": 1.0
+   }
+  },
+  {
+   "id": 20,
+   "start": 131.0,
+   "end": 137.7,
+   "kind": "road",
+   "var": "reverse-town",
+   "cam": {
+    "k": "push",
+    "a": 0.07
+   },
+   "tr": {
+    "k": "cut",
+    "f": 0
+   },
+   "motion": [
+    "kamera push",
+    "lampu kota jauh",
+    "hujan",
+    "kabut"
+   ],
+   "change": "siluet muncul sekejap di belakang",
+   "cfg": {
+    "town": true,
+    "ots": true,
+    "rain": 0.6,
+    "fog": [
+     0.4,
+     0.6
+    ],
+    "puddle": true,
+    "lamp": {
+     "x": 700,
+     "d": 0.2,
+     "glow": 0.9
+    },
+    "ghost": {
+     "d": 0.5,
+     "x": 640
+    }
+   },
+   "insert": {
+    "n": 8,
+    "kind": "ghost",
+    "t": 134.255,
+    "dur": 1.4
+   },
+   "cutReason": "vanish"
+  },
+  {
+   "id": 21,
+   "start": 137.7,
+   "end": 143.3,
+   "kind": "lamp",
+   "var": "dazed",
+   "cam": {
+    "k": "panR",
+    "a": 0.06
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 20
+   },
+   "motion": [
+    "ngengat",
+    "hujan di kerucut cahaya",
+    "kamera pan",
+    "riak genangan"
+   ],
+   "change": "lampu meredup",
+   "cfg": {
+    "glow": [
+     0.9,
+     0.45
+    ]
+   }
+  },
+  {
+   "id": 22,
+   "start": 143.3,
+   "end": 149.65,
+   "kind": "topdown",
+   "var": "road-above",
+   "cam": {
+    "k": "push",
+    "a": 0.08
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 20
+   },
+   "motion": [
+    "jalan bergulir",
+    "kolam cahaya melintas",
+    "riak",
+    "hujan"
+   ],
+   "change": "hujan menguat, cahaya meredup",
+   "cfg": {
+    "glow": [
+     1,
+     0.4
+    ],
+    "rain": [
+     0.6,
+     0.9
+    ]
+   }
+  },
+  {
+   "id": 23,
+   "start": 149.65,
+   "end": 157.0,
+   "kind": "ridge",
+   "var": "night-fog",
+   "cam": {
+    "k": "pull",
+    "a": 0.07
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 20
+   },
+   "motion": [
+    "kamera pull",
+    "kabut mengalir",
+    "bintang berkedip lambat",
+    "hujan tipis"
+   ],
+   "change": "kabut menebal menutup lereng",
+   "cfg": {
+    "baseY": 1180,
+    "peakX": 420,
+    "peakH": 560,
+    "fog": [
+     0.5,
+     0.85
+    ],
+    "moon": true,
+    "moonX": 820,
+    "moonY": [
+     400,
+     360
+    ],
+    "rain": [
+     0.3,
+     0.15
+    ]
+   },
+   "phase": [
+    1,
+    1
+   ],
+   "title": {
+    "text": "APA YANG SEBENARNYA TERJADI?",
+    "size": "md",
+    "from": 149.9,
+    "to": 154.4
+   }
+  },
+  {
+   "id": 24,
+   "start": 157.0,
+   "end": 163.2,
+   "kind": "sky",
+   "var": "clouds-moon",
+   "cam": {
+    "k": "push",
+    "a": 0.06
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 20
+   },
+   "motion": [
+    "awan 2 lapis",
+    "bintang berkedip lambat",
+    "kamera push",
+    "kabut"
+   ],
+   "change": "bulan naik, awan melintas",
+   "cfg": {
+    "moonX": 700,
+    "moonY": [
+     500,
+     440
+    ],
+    "fog": [
+     0.4,
+     0.6
+    ]
+   },
+   "phase": [
+    1,
+    1
+   ]
+  },
+  {
+   "id": 25,
+   "start": 163.2,
+   "end": 171.3,
+   "kind": "town",
+   "var": "valley-lights",
+   "cam": {
+    "k": "panR",
+    "a": 0.07
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 20
+   },
+   "motion": [
+    "kabut 2 lapis",
+    "lampu kota berkedip",
+    "kamera pan",
+    "hujan tipis"
+   ],
+   "change": "kabut menebal",
+   "cfg": {
+    "fog": [
+     0.4,
+     0.8
+    ]
+   },
+   "phase": [
+    1,
+    1
+   ]
+  },
+  {
+   "id": 26,
+   "start": 171.3,
+   "end": 176.1,
+   "kind": "hill",
+   "var": "end-night",
+   "cam": {
+    "k": "pull",
+    "a": 0.08
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 20
+   },
+   "motion": [
+    "awan mengalir",
+    "bulan",
+    "kamera pull",
+    "kabut"
+   ],
+   "change": "bulan naik perlahan",
+   "cfg": {
+    "moon": true,
+    "moonX": 300,
+    "moonY": [
+     440,
+     400
+    ],
+    "clouds": 0.5,
+    "fog": [
+     0.5,
+     0.7
+    ],
+    "peakX": 420
+   },
+   "phase": [
+    1,
+    1
+   ]
+  },
+  {
+   "id": 27,
+   "start": 176.1,
+   "end": 183.4,
+   "kind": "sky",
+   "var": "cta-stars",
+   "cam": {
+    "k": "pull",
+    "a": 0.07
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 20
+   },
+   "motion": [
+    "awan 2 lapis",
+    "bintang berkedip lambat",
+    "kamera pull",
+    "kabut"
+   ],
+   "change": "bulan naik perlahan",
+   "cfg": {
+    "moonX": 360,
+    "moonY": [
+     420,
+     380
+    ],
+    "fog": [
+     0.4,
+     0.55
+    ]
+   },
+   "phase": [
+    1,
+    1
+   ]
+  },
+  {
+   "id": 28,
+   "start": 183.4,
+   "end": 190.301,
+   "kind": "ridge",
+   "var": "end-ridge",
+   "cam": {
+    "k": "push",
+    "a": 0.07
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 20
+   },
+   "motion": [
+    "kamera push",
+    "kabut mengalir",
+    "bintang berkedip lambat",
+    "lampu kota"
+   ],
+   "change": "kabut menebal lalu memudar ke hitam",
+   "cfg": {
+    "baseY": 1150,
+    "peakX": 700,
+    "peakH": 480,
+    "fog": [
+     0.5,
+     0.8
+    ],
+    "moon": true,
+    "moonX": 240,
+    "moonY": [
+     400,
+     380
+    ],
+    "town": true
+   },
+   "phase": [
+    1,
+    1
+   ]
+  }
+ ]
+}

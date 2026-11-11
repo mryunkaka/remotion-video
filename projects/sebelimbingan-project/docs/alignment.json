@@ -1,0 +1,215 @@
+{
+ "method": "ASR (Whisper-small ONNX via sherpa-onnx, language=id) on actual audio per speech segment; text manually normalized (spelling, place names). Segment-level timing. Uncertain items flagged in transcript-verified.json",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 0.96,
+   "text": "Bayangkan..."
+  },
+  {
+   "start": 1.69,
+   "end": 3.92,
+   "text": "di sebuah desa yang sekarang tampak tenang."
+  },
+  {
+   "start": 4.24,
+   "end": 7.27,
+   "text": "Sekitar 15 km dari pusat Kotabaru,"
+  },
+  {
+   "start": 7.76,
+   "end": 12.25,
+   "text": "pernah berdiri kawasan industri batu bara yang sangat besar pada masa Hindia Belanda."
+  },
+  {
+   "start": 13.01,
+   "end": 14.9,
+   "text": "Tempat itu bernama Sebelimbingan,"
+  },
+  {
+   "start": 15.53,
+   "end": 19.64,
+   "text": "dan sejarahnya jauh lebih mengejutkan daripada yang mungkin pernah kita bayangkan."
+  },
+  {
+   "start": 20.9,
+   "end": 22.48,
+   "text": "Tahun 1903,"
+  },
+  {
+   "start": 22.85,
+   "end": 28.33,
+   "text": "sebuah perusahaan batu bara bernama Steenkolen-Maatschappij Pulau Laut didirikan di kawasan ini."
+  },
+  {
+   "start": 29.03,
+   "end": 32.21,
+   "text": "Operasional tambangnya dibuka di bawah pimpinan August Janssen."
+  },
+  {
+   "start": 33.06,
+   "end": 36.78,
+   "text": "Untuk mendukung industri tersebut, Belanda membangun berbagai fasilitas,"
+  },
+  {
+   "start": 37.25,
+   "end": 39.37,
+   "text": "mulai dari jalur kereta api menuju pantai,"
+  },
+  {
+   "start": 39.76,
+   "end": 43.54,
+   "text": "jalan menuju Kotabaru, barak pekerja, hingga balai pengobatan."
+  },
+  {
+   "start": 44.35,
+   "end": 45.4,
+   "text": "Bayangkan segalanya..."
+  },
+  {
+   "start": 46.13,
+   "end": 49.44,
+   "text": "Pada periode 1905 hingga 1910,"
+  },
+  {
+   "start": 49.83,
+   "end": 54.39,
+   "text": "jumlah pekerja tambang meningkat dari sekitar 1.500 menjadi 2.300 orang."
+  },
+  {
+   "start": 55.06,
+   "end": 57.61,
+   "text": "Sebelimbingan bukan sekadar tempat menggali batu bara."
+  },
+  {
+   "start": 58.11,
+   "end": 62.93,
+   "text": "Di sana terdapat pembangkit listrik, kompleks rumah sakit, makam, dan kawasan permukiman."
+  },
+  {
+   "start": 63.69,
+   "end": 67.07,
+   "text": "Batu bara dari Pulau Laut juga dikapalkan melalui pelabuhan Stagen,"
+  },
+  {
+   "start": 67.07,
+   "end": 69.48,
+   "text": "yang berada dekat jalur pelayaran Selat Makassar."
+  },
+  {
+   "start": 70.29,
+   "end": 72.35,
+   "text": "Bahkan, penelitian sejarah mencatat,"
+  },
+  {
+   "start": 72.35,
+   "end": 76.61,
+   "text": "tambang Pulau Laut pernah berkembang menjadi salah satu tambang swasta terbesar di Hindia Belanda."
+  },
+  {
+   "start": 77.27,
+   "end": 79.82,
+   "text": "Namun, kejayaan itu tidak berlangsung selamanya."
+  },
+  {
+   "start": 80.59,
+   "end": 82.18,
+   "text": "Produktivitas tambang mulai menurun."
+  },
+  {
+   "start": 82.5,
+   "end": 88.24,
+   "text": "Perusahaan mengalami kerugian hingga aktivitas pertambangan akhirnya berakhir pada dekade 1930-an."
+  },
+  {
+   "start": 89.0,
+   "end": 91.71,
+   "text": "Kini, sebagian besar peninggalannya telah runtuh atau hilang."
+  },
+  {
+   "start": 92.44,
+   "end": 96.05,
+   "text": "Penelitian arkeologi masih mencatat sisa bangunan yang diduga bekas"
+  },
+  {
+   "start": 96.05,
+   "end": 99.37,
+   "text": "rumah sakit, delapan struktur kompleks rumah diesel, lorong tambang,"
+  },
+  {
+   "start": 99.37,
+   "end": 101.26,
+   "text": "makam, serta bekas kawasan permukiman."
+  },
+  {
+   "start": 101.84,
+   "end": 102.93,
+   "text": "Sebagian peninggalan"
+  },
+  {
+   "start": 102.93,
+   "end": 106.09,
+   "text": "bahkan rusak akibat pembukaan jalan dan pembangunan kawasan."
+  },
+  {
+   "start": 106.72,
+   "end": 109.32,
+   "text": "Jadi, ketika melewati Sebelimbingan, ingatlah..."
+  },
+  {
+   "start": 109.99,
+   "end": 111.75,
+   "text": "Di balik desa yang tampak tenang ini,"
+  },
+  {
+   "start": 111.75,
+   "end": 114.41,
+   "text": "pernah berdiri sebuah kawasan tambang dengan ribuan pekerja,"
+  },
+  {
+   "start": 114.71,
+   "end": 117.53,
+   "text": "jalur kereta api, pembangkit listrik, dan pelabuhan pengapalan."
+  },
+  {
+   "start": 118.12,
+   "end": 122.17,
+   "text": "Sebuah pusat industri yang pernah begitu ramai, lalu perlahan menghilang dari ingatan."
+  },
+  {
+   "start": 122.77,
+   "end": 123.78,
+   "text": "Inilah Sebelimbingan..."
+  },
+  {
+   "start": 124.12,
+   "end": 125.5,
+   "text": "Kota yang hilang di Kotabaru."
+  },
+  {
+   "start": 126.22,
+   "end": 128.96,
+   "text": "Kalau kalian baru mengetahui sejarah ini, jangan lupa LIKE,"
+  },
+  {
+   "start": 128.96,
+   "end": 131.42,
+   "text": "tuliskan pendapat kalian di kolom komentar,"
+  },
+  {
+   "start": 131.42,
+   "end": 134.76,
+   "text": "REPOST dan SHARE video ini agar semakin banyak orang mengenal sejarah Kotabaru."
+  },
+  {
+   "start": 135.37,
+   "end": 140.28,
+   "text": "Dan FOLLOW akun ini, karena masih banyak sejarah dan cerita tersembunyi di Bumi Sa-Ijaan yang belum kita ungkap."
+  },
+  {
+   "start": 140.96,
+   "end": 144.0,
+   "text": "Jangan sampai sejarah daerah kita hilang begitu saja ditelan zaman."
+  }
+ ]
+}

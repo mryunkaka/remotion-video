@@ -1,0 +1,2 @@
+# Sound design (as built)
+Synthesized by scripts/make_audio.py: D-minor pad/drone, sparse soft plucks, low frame-drum pulse (29-56 s, 100-118 s), present-day ambience (wind, leaves, insects) at open/close, reconstructed industrial bed + steam-train chuffs/rail clacks/distant whistle (30-46 s), water/hull/rope ambience at Stagen (55-63 s), soft impacts at 1903 (20.8 s) and on 1.500/2.300, whooshes in speech gaps, soft ticks on CTA. No explosions, screams, or jump-scares. BGM ducked ~18-22 dB under speech. Master -15.3 LUFS, true peak -1.5 dBTP.

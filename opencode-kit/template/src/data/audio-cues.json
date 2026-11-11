@@ -1,0 +1,188 @@
+[
+ {
+  "file": "water-impact",
+  "t": 0.35,
+  "peak": -22,
+  "dur": 3.2
+ },
+ {
+  "file": "suspense-riser",
+  "t": 7.19,
+  "peak": -27,
+  "dur": 7.0
+ },
+ {
+  "file": "underwater-rumble",
+  "t": 18.823,
+  "peak": -27,
+  "dur": 7.0
+ },
+ {
+  "file": "underwater-rumble",
+  "t": 52.35,
+  "peak": -30,
+  "dur": 18.0
+ },
+ {
+  "file": "suspense-riser",
+  "t": 48.014,
+  "peak": -25,
+  "dur": 7.0
+ },
+ {
+  "file": "underwater-bubbles",
+  "t": 54.714,
+  "peak": -23,
+  "dur": 10.0
+ },
+ {
+  "file": "water-impact",
+  "t": 54.964,
+  "peak": -10,
+  "dur": 3.2
+ },
+ {
+  "file": "giant-splash",
+  "t": 55.464,
+  "peak": -17,
+  "dur": 6.0
+ },
+ {
+  "file": "underwater-bubbles",
+  "t": 60.891,
+  "peak": -26,
+  "dur": 5.0
+ },
+ {
+  "file": "water-impact",
+  "t": 64.962,
+  "peak": -9,
+  "dur": 3.2
+ },
+ {
+  "file": "giant-splash",
+  "t": 66.0,
+  "peak": -15,
+  "dur": 3.5
+ },
+ {
+  "file": "giant-splash",
+  "t": 66.716,
+  "peak": -14,
+  "dur": 3.5
+ },
+ {
+  "file": "water-impact",
+  "t": 68.0,
+  "peak": -17,
+  "dur": 1.8
+ },
+ {
+  "file": "water-impact",
+  "t": 69.2,
+  "peak": -17,
+  "dur": 1.8
+ },
+ {
+  "file": "giant-splash",
+  "t": 70.52,
+  "peak": -10,
+  "dur": 6.0
+ },
+ {
+  "file": "underwater-bubbles",
+  "t": 78.599,
+  "peak": -33,
+  "dur": 4.0
+ },
+ {
+  "file": "underwater-bubbles",
+  "t": 79.943,
+  "peak": -32,
+  "dur": 4.0
+ },
+ {
+  "file": "underwater-rumble",
+  "t": 82.17,
+  "peak": -35,
+  "dur": 7.0
+ },
+ {
+  "file": "magical-resonance",
+  "t": 86.599,
+  "peak": -22,
+  "dur": 11.0
+ },
+ {
+  "file": "underwater-rumble",
+  "t": 88.07,
+  "peak": -32,
+  "dur": 4.0
+ },
+ {
+  "file": "magical-resonance",
+  "t": 93.27,
+  "peak": -20,
+  "dur": 11.0
+ },
+ {
+  "file": "underwater-bubbles",
+  "t": 95.43,
+  "peak": -23,
+  "dur": 9.0
+ },
+ {
+  "file": "underwater-rumble",
+  "t": 95.43,
+  "peak": -26,
+  "dur": 10.0
+ },
+ {
+  "file": "suspense-riser",
+  "t": 95.63,
+  "peak": -23,
+  "dur": 7.0
+ },
+ {
+  "file": "water-impact",
+  "t": 102.53,
+  "peak": -8,
+  "dur": 3.2
+ },
+ {
+  "file": "giant-splash",
+  "t": 102.68,
+  "peak": -9,
+  "dur": 6.0
+ },
+ {
+  "file": "underwater-rumble",
+  "t": 102.23,
+  "peak": -20,
+  "dur": 9.0
+ },
+ {
+  "file": "magical-resonance",
+  "t": 103.63,
+  "peak": -24,
+  "dur": 11.0
+ },
+ {
+  "file": "soft-transition",
+  "t": 136.66,
+  "peak": -27,
+  "dur": 4.0
+ },
+ {
+  "file": "soft-transition",
+  "t": 141.76,
+  "peak": -27,
+  "dur": 4.0
+ },
+ {
+  "file": "soft-transition",
+  "t": 146.56,
+  "peak": -28,
+  "dur": 4.0
+ }
+]

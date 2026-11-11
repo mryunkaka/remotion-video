@@ -1,0 +1,27 @@
+{
+  "order": [
+    {
+      "role": "VO1",
+      "original_name": "GUNUNG JULAHIT - vo 1.wav",
+      "stored_as": "public/audio/narration/input/01_vo1_original.wav",
+      "codec": "pcm_s16le",
+      "sample_rate": 24000,
+      "channels": 1,
+      "duration_sec": 131.491,
+      "size_bytes": 6311610,
+      "sha256": "8aa76c446528a94705339f900868ef5b4c1b0bf7d482b8db84677657ce198652"
+    },
+    {
+      "role": "VO2",
+      "original_name": "GUNUNG JULAHIT - vo 2.wav",
+      "stored_as": "public/audio/narration/input/02_vo2_original.wav",
+      "codec": "pcm_s16le",
+      "sample_rate": 24000,
+      "channels": 1,
+      "duration_sec": 128.011,
+      "size_bytes": 6144570,
+      "sha256": "a42ac6c5e56f162d519b48954bc3191edcfffe94e53ee3aa6242bb51e8cd3be0"
+    }
+  ],
+  "note": "Urutan final VO1 -> VO2. File di input/ adalah salinan byte-identik dari file pengguna."
+}

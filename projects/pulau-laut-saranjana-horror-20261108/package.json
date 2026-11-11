@@ -1,0 +1,11 @@
+{
+  "name": "pulau-laut-saranjana-horror",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "audio": "python tools/render_audio.py",
+    "render": "powershell -NoProfile -ExecutionPolicy Bypass -File tools/render.ps1"
+  }
+}
+

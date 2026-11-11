@@ -1,0 +1,6 @@
+{
+  "narration": {"file":"public/audio/narration/voiceover-final.wav","source":"user-supplied upload (ugc-kanvas-voiceover-zephyr__14_.wav; filename suggests a Zephyr TTS voice, not verified)","sample_rate":24000,"channels":1,"codec":"pcm_s16le","duration_s":144.131,"sha256":"b47defd779b170933743f26ec4cb3366172eef2b34509f4aeb3840cd239ef1e1","integrated_lufs":-16.7,"true_peak_dbtp":-0.7,"checked":"2026-11-10"},
+  "mix": {"file":"public/audio/mix-master.wav","sample_rate":48000,"channels":2,"duration_s":146.7,"integrated_lufs":-15.3,"true_peak_dbtp":-1.5,"bgm_vs_voice_during_speech_db":"about -18 to -22","generator":"scripts/make_audio.py (numpy synthesis, original, no third-party samples)"},
+  "asr": "NOT PERFORMED - no Whisper/ASR engine or model could be installed in this sandbox (model hosts blocked). See transcript-verified.json.",
+  "alignment": "segment-level, silence-anchored (docs/alignment.json). Not word-level."
+}

@@ -1,0 +1,16 @@
+{
+  "name": "between-sleep-and-sky-demo",
+  "private": true,
+  "version": "1.0.0",
+  "description": "One-minute wordless dreamcore motion-graphics film",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts BetweenSleepAndSky ../out/BETWEEN-SLEEP-AND-SKY.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.541",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.541"
+  }
+}

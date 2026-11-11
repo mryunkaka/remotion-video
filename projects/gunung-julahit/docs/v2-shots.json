@@ -1,0 +1,684 @@
+{
+ "schema": "v2",
+ "labelMode": "perShot",
+ "shots": [
+  {
+   "id": 1,
+   "start": 0,
+   "end": 4.41,
+   "kind": "hill",
+   "var": "p0.95",
+   "cam": {
+    "k": "push",
+    "a": 0.04
+   },
+   "tr": {
+    "k": "dip",
+    "f": 12
+   },
+   "title": "KOTABARU, KALIMANTAN SELATAN"
+  },
+  {
+   "id": 2,
+   "start": 4.41,
+   "end": 6.01,
+   "kind": "hill",
+   "var": "p0.3m",
+   "cam": {
+    "k": "push",
+    "a": 0.06
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 9
+   },
+   "title": "GUNUNG JULAHIT"
+  },
+  {
+   "id": 3,
+   "start": 6.01,
+   "end": 8.69,
+   "kind": "road",
+   "var": "M",
+   "cam": {
+    "k": "track",
+    "a": 0.04
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 9
+   },
+   "label": "ILUSTRASI SUASANA",
+   "title": "GUNUNG JULAHIT"
+  },
+  {
+   "id": 4,
+   "start": 8.69,
+   "end": 12.56,
+   "kind": "map",
+   "var": "kotabaru",
+   "cam": {
+    "k": "push",
+    "a": 0.04
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 9
+   },
+   "label": "ILUSTRASI LEGENDA",
+   "ref": "L"
+  },
+  {
+   "id": 5,
+   "start": 12.56,
+   "end": 16.56,
+   "kind": "hill",
+   "var": "p0.9m",
+   "cam": {
+    "k": "panR",
+    "a": 0.04
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 9
+   },
+   "label": "ILUSTRASI SUASANA",
+   "ref": "L"
+  },
+  {
+   "id": 6,
+   "start": 16.56,
+   "end": 19,
+   "kind": "road",
+   "var": "M",
+   "cam": {
+    "k": "locked",
+    "a": 0.04
+   },
+   "tr": {
+    "k": "cut",
+    "f": 0
+   },
+   "label": "ILUSTRASI LEGENDA",
+   "ref": "L"
+  },
+  {
+   "id": 7,
+   "start": 19,
+   "end": 20.8,
+   "kind": "map",
+   "var": "tanjung",
+   "cam": {
+    "k": "push",
+    "a": 0.04
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 9
+   },
+   "label": "ILUSTRASI LEGENDA",
+   "ref": "L"
+  },
+  {
+   "id": 8,
+   "start": 20.8,
+   "end": 22.66,
+   "kind": "map",
+   "var": "three",
+   "cam": {
+    "k": "locked",
+    "a": 0.04
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 9
+   },
+   "label": "ILUSTRASI LEGENDA",
+   "ref": "L"
+  },
+  {
+   "id": 9,
+   "start": 22.66,
+   "end": 25.73,
+   "kind": "bridge",
+   "var": "",
+   "cam": {
+    "k": "push",
+    "a": 0.05
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 9
+   },
+   "label": "ILUSTRASI LEGENDA",
+   "ref": "L"
+  },
+  {
+   "id": 10,
+   "start": 25.73,
+   "end": 27.38,
+   "kind": "bridge",
+   "var": "fig",
+   "cam": {
+    "k": "push",
+    "a": 0.03
+   },
+   "tr": {
+    "k": "cut",
+    "f": 0
+   },
+   "label": "ILUSTRASI LEGENDA",
+   "ref": "L"
+  },
+  {
+   "id": 11,
+   "start": 27.38,
+   "end": 28.98,
+   "kind": "map",
+   "var": "saranjana",
+   "cam": {
+    "k": "push",
+    "a": 0.04
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 9
+   },
+   "label": "ILUSTRASI LEGENDA",
+   "ref": "L"
+  },
+  {
+   "id": 12,
+   "start": 28.98,
+   "end": 33.15,
+   "kind": "montage",
+   "var": "",
+   "cam": {
+    "k": "pull",
+    "a": 0.04
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 9
+   },
+   "label": "ILUSTRASI LEGENDA",
+   "ref": "L"
+  },
+  {
+   "id": 13,
+   "start": 33.15,
+   "end": 37.47,
+   "kind": "road",
+   "var": "P",
+   "cam": {
+    "k": "track",
+    "a": 0.05
+   },
+   "tr": {
+    "k": "dip",
+    "f": 12
+   },
+   "label": "REKONSTRUKSI VISUAL",
+   "ref": "D"
+  },
+  {
+   "id": 14,
+   "start": 37.47,
+   "end": 41.68,
+   "kind": "road",
+   "var": "LP",
+   "cam": {
+    "k": "push",
+    "a": 0.03
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 9
+   },
+   "label": "REKONSTRUKSI VISUAL",
+   "ref": "D"
+  },
+  {
+   "id": 15,
+   "start": 41.68,
+   "end": 45.45,
+   "kind": "road",
+   "var": "LFdown0.12P",
+   "cam": {
+    "k": "locked",
+    "a": 0.04
+   },
+   "tr": {
+    "k": "cut",
+    "f": 0
+   },
+   "label": "REKONSTRUKSI VISUAL",
+   "ref": "D",
+   "title": "MALAM JUMAT"
+  },
+  {
+   "id": 16,
+   "start": 45.45,
+   "end": 49.34,
+   "kind": "road",
+   "var": "LFdown0.12P",
+   "cam": {
+    "k": "rack",
+    "a": 0.06
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 9
+   },
+   "label": "REKONSTRUKSI VISUAL",
+   "ref": "D"
+  },
+  {
+   "id": 17,
+   "start": 49.34,
+   "end": 50.94,
+   "kind": "road",
+   "var": "LFwave0.38HP",
+   "cam": {
+    "k": "push",
+    "a": 0.03
+   },
+   "tr": {
+    "k": "cut",
+    "f": 0
+   },
+   "label": "REKONSTRUKSI VISUAL",
+   "ref": "D"
+  },
+  {
+   "id": 18,
+   "start": 50.94,
+   "end": 53.71,
+   "kind": "road",
+   "var": "LFdown0.46P",
+   "cam": {
+    "k": "push",
+    "a": 0.03
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 9
+   },
+   "label": "SEBUAH KESAKSIAN YANG DIBERITAKAN",
+   "ref": "D"
+  },
+  {
+   "id": 19,
+   "start": 53.71,
+   "end": 55.31,
+   "kind": "hill",
+   "var": "p1",
+   "cam": {
+    "k": "push",
+    "a": 0.05
+   },
+   "tr": {
+    "k": "cut",
+    "f": 0
+   },
+   "label": "ILUSTRASI SUASANA",
+   "ref": "D",
+   "title": "DI ATAS GUNUNG JULAHIT?"
+  },
+  {
+   "id": 20,
+   "start": 55.31,
+   "end": 58.68,
+   "kind": "hill",
+   "var": "p1",
+   "cam": {
+    "k": "push",
+    "a": 0.02
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 9
+   }
+  },
+  {
+   "id": 21,
+   "start": 58.68,
+   "end": 68.95,
+   "kind": "road",
+   "var": "MP",
+   "cam": {
+    "k": "track",
+    "a": 0.04
+   },
+   "tr": {
+    "k": "dip",
+    "f": 12
+   },
+   "label": "DRAMATISASI BERDASARKAN KESAKSIAN YANG DIBERITAKAN",
+   "ref": "D"
+  },
+  {
+   "id": 22,
+   "start": 68.95,
+   "end": 73.81,
+   "kind": "road",
+   "var": "LMP",
+   "cam": {
+    "k": "panL",
+    "a": 0.035
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 9
+   },
+   "label": "REKONSTRUKSI VISUAL",
+   "ref": "D"
+  },
+  {
+   "id": 23,
+   "start": 73.81,
+   "end": 83.33,
+   "kind": "road",
+   "var": "LFdown0.36MP",
+   "cam": {
+    "k": "locked",
+    "a": 0.04
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 9
+   },
+   "label": "REKONSTRUKSI VISUAL",
+   "ref": "D"
+  },
+  {
+   "id": 24,
+   "start": 83.33,
+   "end": 88.27,
+   "kind": "road",
+   "var": "LFraise0.36MP",
+   "cam": {
+    "k": "push",
+    "a": 0.03
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 9
+   },
+   "label": "REKONSTRUKSI VISUAL",
+   "ref": "D"
+  },
+  {
+   "id": 25,
+   "start": 88.27,
+   "end": 92.41,
+   "kind": "road",
+   "var": "LFdown0.3MP",
+   "cam": {
+    "k": "push",
+    "a": 0.02
+   },
+   "tr": {
+    "k": "cut",
+    "f": 0
+   },
+   "label": "REKONSTRUKSI VISUAL",
+   "ref": "D"
+  },
+  {
+   "id": 26,
+   "start": 92.41,
+   "end": 96.25,
+   "kind": "road",
+   "var": "LFdown0.55MOP",
+   "cam": {
+    "k": "locked",
+    "a": 0.04
+   },
+   "tr": {
+    "k": "cut",
+    "f": 0
+   },
+   "label": "REKONSTRUKSI VISUAL",
+   "ref": "D"
+  },
+  {
+   "id": 27,
+   "start": 96.25,
+   "end": 100.62,
+   "kind": "road",
+   "var": "SP",
+   "cam": {
+    "k": "tiltDown",
+    "a": 0.04
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 9
+   },
+   "label": "REKONSTRUKSI VISUAL",
+   "ref": "D"
+  },
+  {
+   "id": 28,
+   "start": 100.62,
+   "end": 105.4,
+   "kind": "road",
+   "var": "LFdown0.55MP",
+   "cam": {
+    "k": "push",
+    "a": 0.03
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 9
+   },
+   "label": "REKONSTRUKSI VISUAL",
+   "ref": "D"
+  },
+  {
+   "id": 29,
+   "start": 105.4,
+   "end": 107.29,
+   "kind": "road",
+   "var": "LFpoint0.55MP",
+   "cam": {
+    "k": "push",
+    "a": 0.03
+   },
+   "tr": {
+    "k": "cut",
+    "f": 0
+   },
+   "label": "REKONSTRUKSI VISUAL",
+   "ref": "D",
+   "title": "KE ARAH GUNUNG JULAHIT"
+  },
+  {
+   "id": 30,
+   "start": 107.29,
+   "end": 113.9,
+   "kind": "road",
+   "var": "LFpoint0.55M",
+   "cam": {
+    "k": "tiltUp",
+    "a": 0.045
+   },
+   "tr": {
+    "k": "cut",
+    "f": 0
+   },
+   "label": "REKONSTRUKSI VISUAL",
+   "ref": "D"
+  },
+  {
+   "id": 31,
+   "start": 113.9,
+   "end": 121.63,
+   "kind": "road",
+   "var": "LFdown0.55MP",
+   "cam": {
+    "k": "locked",
+    "a": 0.04
+   },
+   "tr": {
+    "k": "cut",
+    "f": 0
+   },
+   "label": "REKONSTRUKSI VISUAL",
+   "ref": "D"
+  },
+  {
+   "id": 32,
+   "start": 121.63,
+   "end": 123.62,
+   "kind": "road",
+   "var": "LFstop0.55MP",
+   "cam": {
+    "k": "push",
+    "a": 0.02
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 9
+   },
+   "label": "REKONSTRUKSI VISUAL",
+   "ref": "D"
+  },
+  {
+   "id": 33,
+   "start": 123.62,
+   "end": 125.17,
+   "kind": "road",
+   "var": "LFdown0.4MP",
+   "cam": {
+    "k": "locked",
+    "a": 0.04
+   },
+   "tr": {
+    "k": "cut",
+    "f": 0
+   },
+   "label": "REKONSTRUKSI VISUAL",
+   "ref": "D"
+  },
+  {
+   "id": 34,
+   "start": 125.17,
+   "end": 127.86,
+   "kind": "road",
+   "var": "LFdown0.4MP",
+   "cam": {
+    "k": "locked",
+    "a": 0.04
+   },
+   "tr": {
+    "k": "cut",
+    "f": 0
+   },
+   "label": "REKONSTRUKSI VISUAL",
+   "ref": "D",
+   "title": "LALU... MENGHILANG"
+  },
+  {
+   "id": 35,
+   "start": 127.86,
+   "end": 131.25,
+   "kind": "road",
+   "var": "LMP",
+   "cam": {
+    "k": "tiltDown",
+    "a": 0.04
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 9
+   },
+   "label": "REKONSTRUKSI VISUAL",
+   "ref": "D"
+  },
+  {
+   "id": 36,
+   "start": 131.25,
+   "end": 137.26,
+   "kind": "road",
+   "var": "LFdown0.5MOP",
+   "cam": {
+    "k": "locked",
+    "a": 0.04
+   },
+   "tr": {
+    "k": "cut",
+    "f": 0
+   },
+   "label": "ILUSTRASI HOROR",
+   "ref": "D"
+  },
+  {
+   "id": 37,
+   "start": 137.26,
+   "end": 145.93,
+   "kind": "road",
+   "var": "MP",
+   "cam": {
+    "k": "pull",
+    "a": 0.05
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 9
+   },
+   "label": "REKONSTRUKSI VISUAL",
+   "ref": "D"
+  },
+  {
+   "id": 38,
+   "start": 145.93,
+   "end": 156.77,
+   "kind": "hill",
+   "var": "p1m",
+   "cam": {
+    "k": "push",
+    "a": 0.04
+   },
+   "tr": {
+    "k": "dip",
+    "f": 12
+   },
+   "label": "ILUSTRASI SUASANA",
+   "ref": "D",
+   "title": "APA YANG SEBENARNYA TERJADI?"
+  },
+  {
+   "id": 39,
+   "start": 156.77,
+   "end": 171.1,
+   "kind": "card",
+   "var": "",
+   "cam": {
+    "k": "locked",
+    "a": 0.04
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 9
+   },
+   "ref": "D"
+  },
+  {
+   "id": 40,
+   "start": 171.1,
+   "end": 190.301,
+   "kind": "end",
+   "var": "",
+   "cam": {
+    "k": "locked",
+    "a": 0.04
+   },
+   "tr": {
+    "k": "dissolve",
+    "f": 9
+   }
+  }
+ ]
+}

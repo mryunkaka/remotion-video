@@ -1,0 +1,3 @@
+# Global architecture
+
+OpenCode configuration, primary director, specialist agents, commands, and workflow skills are project-local under `opencode.json` and `.opencode/`. Workspace policy lives in `AGENTS.md`. Official Remotion Agent Skills are installed under `.agents/skills/` and discovered by OpenCode. `tools/create-video-project.mjs` creates isolated production directories and can copy a local WAV; `shared/ASSET-PROVIDERS.md` defines provider/provenance rules. `tools/contact-sheet.mjs` creates labeled overview and readable detail sheets from extracted frames. No provider makes network or paid calls by default.

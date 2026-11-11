@@ -1,0 +1,24 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "model": "9router/cx/gpt-6-luna",
+  "small_model": "9router/cx/gpt-6-luna",
+  "provider": {
+    "9router": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "9Router",
+      "options": {
+        "baseURL": "https://9router.saijaan.my.id/v1",
+        "apiKey": "{env:NINEROUTER_API_KEY}"
+      },
+      "models": {
+        "cx/gpt-6-luna": {
+          "name": "GPT-6 Luna via 9Router",
+          "options": {
+            "reasoningEffort": "medium"
+          }
+        }
+      }
+    }
+  },
+  "instructions": ["AGENTS.md"]
+}
